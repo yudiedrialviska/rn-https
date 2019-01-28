@@ -1,0 +1,22 @@
+{
+  "name": "@yudiedrialviska/rn-https",
+  "version": "1.0.0",
+  "description": "to access module https from node-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudiedrialviska/rn-https.git"
+  },
+  "keywords": [
+    "https"
+  ],
+  "author": "Yudi Edri Alviska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudiedrialviska/rn-https/issues"
+  },
+  "homepage": "https://github.com/yudiedrialviska/rn-https#readme"
+}
